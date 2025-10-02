@@ -2,7 +2,7 @@
 
 ## 简介
 
-本文档整理了 Bloret Launcher 网页界面的 CSS 样式。这些样式最初嵌入在 Python 文件的 HTML 字符串中，现已提取并合并，以便于管理和维护。
+Bloret 网页界面（BBBS、Bloret PassPort、ChaFuWang 以及 Bloret Launcher 授权等界面）的统一玻璃设计规范
 
 ## 设计思路
 
